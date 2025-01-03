@@ -11,7 +11,6 @@ Welcome to the **React To-Do App**! This simple yet elegant to-do application al
 
 ## 🛠️ Tech Stack
 - **React.js**: Core framework for building the user interface.
-- **CSS/JavaScript**: Styled with custom animations and dynamic effects.
 - **LocalStorage**: For persisting data across sessions.
 
 ---
