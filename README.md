@@ -24,8 +24,8 @@ Make sure you have the following installed:
 
 ### Installation
 
-``` npm install ```
+- ``` npm install ```
 
 ### To run it 
 
-``` npm run dev ```
+- ``` npm run dev ```
